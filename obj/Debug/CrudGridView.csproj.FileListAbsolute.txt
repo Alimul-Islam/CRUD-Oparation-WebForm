@@ -1,0 +1,118 @@
+G:\NewProject-Class23\CrudGridView\bin\CrudGridView.dll.config
+G:\NewProject-Class23\CrudGridView\bin\CrudGridView.dll
+G:\NewProject-Class23\CrudGridView\bin\CrudGridView.pdb
+G:\NewProject-Class23\CrudGridView\bin\roslyn\csc.exe
+G:\NewProject-Class23\CrudGridView\bin\roslyn\csc.exe.config
+G:\NewProject-Class23\CrudGridView\bin\roslyn\csc.rsp
+G:\NewProject-Class23\CrudGridView\bin\roslyn\csi.exe
+G:\NewProject-Class23\CrudGridView\bin\roslyn\csi.exe.config
+G:\NewProject-Class23\CrudGridView\bin\roslyn\csi.rsp
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.Managed.Core.targets
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.AppContext.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Collections.Immutable.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Console.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Globalization.Calendars.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.Compression.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.FileSystem.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Net.Http.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Net.Sockets.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Reflection.Metadata.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.ValueTuple.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.XmlDocument.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.XPath.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\NewProject-Class23\CrudGridView\bin\roslyn\vbc.exe
+G:\NewProject-Class23\CrudGridView\bin\roslyn\vbc.exe.config
+G:\NewProject-Class23\CrudGridView\bin\roslyn\vbc.rsp
+G:\NewProject-Class23\CrudGridView\bin\roslyn\VBCSCompiler.exe
+G:\NewProject-Class23\CrudGridView\bin\roslyn\VBCSCompiler.exe.config
+G:\NewProject-Class23\CrudGridView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\NewProject-Class23\CrudGridView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.csproj.CoreCompileInputs.cache
+G:\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.csproj.CopyComplete
+G:\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.dll
+G:\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.pdb
+G:\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.csproj.AssemblyReference.cache
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\CrudGridView.dll.config
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\CrudGridView.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\CrudGridView.pdb
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\csc.exe
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\csc.exe.config
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\csc.rsp
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\csi.exe
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\csi.exe.config
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\csi.rsp
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.AppContext.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Console.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Globalization.Calendars.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.Compression.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Net.Http.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Net.Sockets.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.ValueTuple.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.XPath.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\vbc.exe
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\vbc.exe.config
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\vbc.rsp
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\VBCSCompiler.exe
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.csproj.AssemblyReference.cache
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.csproj.CoreCompileInputs.cache
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.csproj.CopyComplete
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.dll
+F:\ASP dot NET\ASP dotNet\Daily Project\NewProject-Class23\CrudGridView\obj\Debug\CrudGridView.pdb
